@@ -1,4 +1,6 @@
-ckup.py
+#!/usr/bin/env python
+"""
+backup.py
 
 Create an archive which will be suitable for rsyncing to a remote backup.
  - will not copy data unnecessarily for common operations such as
